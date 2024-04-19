@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+        <text>Question 1</text>
+        <details>What is 1+1 ?</details>
+        <optionA>2</optionA>
+        <optionB>3</optionB>
+        <optionC>4</optionC>
+        <correctAnswer>2</correctAnswer>
+    </question>
+    <question>
+        <text>Question 2</text>
+        <details>What is the capital city of Australia?</details>
+        <optionA>Melbourne</optionA>
+        <optionB>Canberra</optionB>
+        <optionC>Sydney</optionC>
+        <correctAnswer>Canberra</correctAnswer>
+    </question>
+    <question>
+        <text>Question 3</text>
+        <details>What is the color of strawberry?</details>
+        <optionA>Black</optionA>
+        <optionB>Red</optionB>
+        <optionC>Green</optionC>
+        <correctAnswer>Red</correctAnswer>
+    </question>
+    <question>
+        <text>Question 4</text>
+        <details>In which continent Spain is located?</details>
+        <optionA>Asia</optionA>
+        <optionB>Europe</optionB>
+        <optionC>America</optionC>
+        <correctAnswer>Europe</correctAnswer>
+    </question>
+    <question>
+        <text>Question 5</text>
+        <details>What company does iphone belong to?</details>
+        <optionA>Microsoft</optionA>
+        <optionB>Apple</optionB>
+        <optionC>Google</optionC>
+        <correctAnswer>Apple</correctAnswer>
+    </question>
+</questions>
